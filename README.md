@@ -5,16 +5,10 @@
 
 キー操作：
 
-w save.txtにセーブ
-
-l save.txtからロード
-
-e エディットモード
-
-g ゲームモード
-
-r ランダムに初期化する
-
-c クリア
-
-q quit
+    w   save.txtにセーブ
+    l   save.txtからロード
+    e   エディットモード
+    g   ゲームモード
+    r   ランダムに初期化する
+    c   クリア
+    q   quit
